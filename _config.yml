@@ -3,9 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 花豆
-subtitle: 个人博客
-author: 花豆
+title: 花 豆
+lefttitle: 王银瑞
+subtitle: 广阔天地，大有可为
+author: wangyinrui
 language:
 timezone:
 
@@ -64,7 +65,7 @@ ga_domain: yoursite
 
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
-sidebar-about-description: "Stay hungry,Stay foolish"
+sidebar-about-description: "总是忙着折腾"
 sidebar-avatar: /img/avatar/ironman.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
